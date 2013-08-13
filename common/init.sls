@@ -1,7 +1,9 @@
 corepkgs:
   pkg.installed:
     - names:
-      - time
+      - man
+      - less
+      - sudo
 
 unneededpkgs:
   pkg.purged:
