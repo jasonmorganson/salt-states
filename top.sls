@@ -2,3 +2,4 @@ base:
   '*':
     - users
     - common
+    - git
