@@ -4,6 +4,10 @@ corepkgs:
       - man
       - less
       - sudo
+      - wget
+      - curl
+      - make
+      - cmake
 
 unneededpkgs:
   pkg.purged:
